@@ -1,0 +1,20 @@
+h1 {
+    letter-spacing: 50px;
+}
+
+#space-brand {
+    letter-spacing: 3px;
+}
+
+.space-year {
+    letter-spacing: 50px;
+}
+
+#space-act {
+    letter-spacing: 5px;
+}
+
+img {
+    height: 400px;
+    width: 400px;
+}
