@@ -13,3 +13,12 @@ h1 {
 #space-act {
     letter-spacing: 5px;
 }
+.max {
+    transition: 2s;
+}
+
+.max:hover {
+    padding: 30px;
+    transition: 2s;
+    cursor: pointer;
+}
